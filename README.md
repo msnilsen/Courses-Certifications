@@ -4,16 +4,16 @@ List of Courses and Certifications I Have Completed
 
 Certifications:
 
-Google Garage | The Fundamentals of Digital Marketing
+	Google Garage | The Fundamentals of Digital Marketing
   
 Self-Paced Courses:
 
-Codecademy | Learn SQL
+	Codecademy | Learn SQL
 
-Codecademy | Make a Website
+	Codecademy | Make a Website
 
-Codecademy | Learn HTML
+	Codecademy | Learn HTML
 
-Codecademy | Learn CSS
+	Codecademy | Learn CSS
 
-Udacity | Object Oriented Programming in Java
+	Udacity | Object Oriented Programming in Java
